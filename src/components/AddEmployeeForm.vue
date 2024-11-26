@@ -88,9 +88,9 @@
   <style scoped>
   .form-container {
     padding: 20px;
-    background: #fff;
+    background: #c100f144;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 10px rgba(249, 0, 166, 0.5);
   }
   
   h2 {
@@ -107,16 +107,16 @@
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #000;
+    color: #000000;
   }
   
   .form-group input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #7d197373;
     border-radius: 5px;
     font-size: 1rem;
-    color: #000;
+    color: #000000;
   }
   
   .form-group input::placeholder {
@@ -126,17 +126,18 @@
   .btn-primary {
     display: block;
     width: 100%;
-    background-color: #4a90e2;
-    color: white;
+    background-color: #e600ff;
+    color: rgb(255, 255, 255);
     padding: 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 1rem;
+    box-shadow: 0 10px 10px rgba(249, 0, 166, 0.5);
   }
   
   .btn-primary:hover {
-    background-color: #3b78c2;
+    background-color: #ff0080;
   }
   </style>
   

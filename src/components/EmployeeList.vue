@@ -66,9 +66,9 @@
   <style scoped>
   .table-container {
     padding: 20px;
-    background: #f9f9f9;
+    background: #c100f144;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 10px rgba(249, 0, 166, 0.5);
   }
   
   h2 {
@@ -80,10 +80,10 @@
   .employee-table {
     width: 100%;
     border-collapse: collapse;
-    background: #fff;
+    background: #c100f144;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 10px rgba(127, 8, 255, 0.377);
   }
   
   .employee-table th,
@@ -95,8 +95,8 @@
   }
   
   .employee-table th {
-    background: #4a90e2;
-    color: #fff;
+    background: #b900f7;
+    color: #ffffff;
     font-weight: bold;
   }
   
